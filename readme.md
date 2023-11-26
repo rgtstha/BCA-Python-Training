@@ -4,3 +4,6 @@
 1. [Day 1- Installation](./day1_installation/day_1_installation.md)
 2. [Day 2- Print Function and Variables](./day2_print_and_variable/day_2.md)
 3. [Day 3- Data Types](./day3_data_types/data_type.md)
+4. Revised day 1, 2 and 3
+5. [Day 5 - Data Types Continued](./day5_data_types/data_type.md)
+6. [Day 6 - Control Flow](./day_6_control_flow/control_flow.md)
