@@ -7,3 +7,4 @@
 4. Revised day 1, 2 and 3
 5. [Day 5 - Data Types Continued](./day5_data_types/data_type.md)
 6. [Day 6 - Control Flow](./day_6_control_flow/control_flow.md)
+7. [Day 7 - Control Flow Continued](./day_7_control_flow/control_flow.md)
