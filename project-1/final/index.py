@@ -77,12 +77,15 @@ while True:
     else:
         print("Invalid choice. Please enter a number between 1 and 5.")
 
-demo_list = ["Complete assignment", "Buy groceries", "Exercise", "Read a book"]
-
-#  enumerate method returns the index and task
-#  you can learn unpacking concept
 
 
-for index, task in enumerate(demo_list):
-    print(f"Task {index + 1}: {task}")
+
+# demo_list = ["Learn py", "Go to tour", "Shopping", "Learn c#"]
+
+# #  enumerate method returns the index and task
+# #  you can learn unpacking concept
+
+
+# for index, task in enumerate(demo_list):
+#     print(f"Task {index + 1}: {task}")
 
