@@ -8,3 +8,5 @@
 5. [Day 5 - Data Types Continued](./day5_data_types/data_type.md)
 6. [Day 6 - Control Flow](./day_6_control_flow/control_flow.md)
 7. [Day 7 - Control Flow Continued](./day_7_control_flow/control_flow.md)
+8. [Day 8 - Break and Continue](./day_8_break_and_continue/break_and_continue.md)
+9. [Day 9 - Functions](./day_9_functions/functions.md)
