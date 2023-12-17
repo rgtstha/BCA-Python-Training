@@ -10,3 +10,5 @@
 7. [Day 7 - Control Flow Continued](./day_7_control_flow/control_flow.md)
 8. [Day 8 - Break and Continue](./day_8_break_and_continue/break_and_continue.md)
 9. [Day 9 - Functions](./day_9_functions/functions.md)
+10. [Day 10- Functions Continued](./day_10_functions_continue/function.md)
+11. [Day 11- Class](./day_11_class/note.md)
