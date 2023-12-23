@@ -12,3 +12,5 @@
 9. [Day 9 - Functions](./day_9_functions/functions.md)
 10. [Day 10- Functions Continued](./day_10_functions_continue/function.md)
 11. [Day 11- Class](./day_11_class/note.md)
+12. [Day 12 - Class Continue](./day_12_class_continue/class_continue.md)
+13. [Day 13 - Class Continue](./day_13_class_cont/class_continue.md)
