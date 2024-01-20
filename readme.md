@@ -17,3 +17,4 @@
 14. [Day 14 - Class Continue](./day_14/modules.md)
 15. [Day 15 - Abstraction](./day_15_abstraction/abstraction.md)
 16. [Day 16 - Packages](./day_16/packages.md)
+17. [Day 17 - Tkinter](./day_17_tkinter/gui_application.md)
