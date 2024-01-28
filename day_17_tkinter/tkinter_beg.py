@@ -17,9 +17,12 @@ my_input.pack()
 def my_add():
     label.configure(text = my_input.get())
 
+
+
 #Button
 add_button = ttk.Button(master= window, text = "Add", command= my_add)
 add_button.pack()
+
 
 
 window.mainloop()
