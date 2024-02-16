@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
-
+import json
 
 driver = webdriver.Chrome()
 driver.get('https://www.sharesansar.com/existing-issues')
@@ -10,9 +9,8 @@ table_element = driver.find_element(By.ID, 'myTableEip')
 row_elements = table_element.find_elements(By.TAG_NAME, 'tr')
 table_data = []
 
-for row in row_elements:
+for row in row_elements[1:]:
     data_elements = row.find_elements(By.TAG_NAME, 'td')
-    print("Total length =", len(data_elements))
     ipo = {
         'S.N': data_elements[0].text,
         'Symbol': data_elements[1].text,
@@ -21,8 +19,7 @@ for row in row_elements:
     }
     table_data.append(ipo)
 
-
-print(table_data)
-time.sleep(10)
+with open('ipo_data.json', 'w') as f:
+    json.dump(table_data,f, indent=2 )
 
 driver.close()
